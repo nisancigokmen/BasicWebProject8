@@ -1,0 +1,41 @@
+    body {
+        padding: 0px;
+        margin: 0px;
+        background-image: url(./133364.jpg);
+        background-repeat: no-repeat;
+    }
+    
+    #tag-title {
+        padding-top: 2em;
+        text-align: center;
+        float: right;
+        padding-right: 120px;
+    }
+    
+    li {
+        list-style: none;
+        font-size: 26px;
+        font-family: 'Festive', cursive;
+    }
+    
+    li:hover {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 26px;
+        background-color: #f2f2f2;
+    }
+    
+    h2 {
+        font-size: 42px;
+        padding-bottom: 1em;
+        font-family: 'Bebas Neue', cursive;
+    }
+    
+    img {
+        margin: 12px 12px 12px 12px;
+    }
+    
+    h2:hover {
+        background-color: #ca0a0a;
+        color: #f2f2f2;
+        text-align: center;
+    }
